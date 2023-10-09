@@ -1,1 +1,2 @@
- 
+In DevOps, we always practice ways to streamlime the devlepmnt process and such. It also includes things like Continuous Delivery and IaC.
+Talking to a friend about this, no one really "knows" what DevOps is about, but it seems to be one of the best practices to mitigate the chances of human error.
