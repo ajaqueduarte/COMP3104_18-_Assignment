@@ -1,0 +1,4 @@
+Very important course that will shape how we develop, deploy, and maintain software.
+
+I believe that embracing DevOps principles and practices would be something that makes a person stay competitive in the field, since we will
+be able to deliver high-quality software and smooth development cycle.
